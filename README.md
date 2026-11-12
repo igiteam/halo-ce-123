@@ -18,6 +18,10 @@
 ### 4K Stencil Shadow Test In Halo CE (OpenCE)
 [![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
 
+[![halo-ce-editor](https://img.youtube.com/vi/4FaQIL-9gys/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLJYVRGd0JwzY)
+
+[![halo-ce-first-person-legs](https://img.youtube.com/vi/gkQXpLdpb6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=gkQXpLdpb6E)
+
 ### Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows
 [![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://youtu.be/FK5T_2NXjhI)
 
