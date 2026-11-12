@@ -1,8 +1,16 @@
-# OpenCE - Halo: Combat Evolved for Linux, Windows, Android and the web
+# halo-ce-123
+## Halo Campaign Evolved - Halo 1, 2, 3
 **OpenCE** (Open Community Edition) is an open source port of the Halo: Combat Evolved decompilation (Halo CE) based on an early Xbox development build (2342) and forked from
 [bnunu/halo-1](https://github.com/bnunu/halo-1). The project aims to enhance the existing game and adds many features, such as 128-player multiplayer, online campaign co-op, mod packs, field-of-view settings, a server browser, peer-to-peer hosting, automatic map downloads, voice chat, support for Custom Edition maps and much more! 
 
-The game runs natively on **Windows, Linux, Android** and in the **web browser** with nothing to install. A macOS port is in progress. Worth noting that it is not an emulator, **the game's own code is compiled for each platform** with a new layer in place of the Xbox's hardware. Runs on OpenGL (Android is on OpenGL ES and WebGL 2 in the browser). Sound, input, gamepads are all handled through SDL3. The game currently draws a frame every refresh of your display with Smooth Motion enabled, while the simulation runs at 30 ticks just like the original Xbox. 
+## Github Codespace
+
+## GitHub Treeview
+[https://treegit.macosxjs.com/?url=igiteam/halo-ce-123](https://treegit.macosxjs.com/?url=igiteam/halo-ce-123)
+
+## GitHub Tree API (Direct JSON)
+[https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1)
+
 
 ### OpenCE running on Windows (release build)
 [![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://youtu.be/KPQzqxQRCzM)
@@ -21,6 +29,53 @@ The game runs natively on **Windows, Linux, Android** and in the **web browser**
 [![2026.03.03 - 08.58.35.00](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)
 
 [![2026.03.03 - 11.01.09.00](https://github.com/user-attachments/assets/7bf66958-8bdc-4a65-bab9-a7b652f742ce)](https://github.com/user-attachments/assets/7bf66958-8bdc-4a65-bab9-a7b652f742ce)
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+# OpenCE - Halo: Combat Evolved for Linux, Windows, Android and the web
+The game runs natively on **Windows, Linux, Android** and in the **web browser** with nothing to install. A macOS port is in progress. Worth noting that it is not an emulator, **the game's own code is compiled for each platform** with a new layer in place of the Xbox's hardware. Runs on OpenGL (Android is on OpenGL ES and WebGL 2 in the browser). Sound, input, gamepads are all handled through SDL3. The game currently draws a frame every refresh of your display with Smooth Motion enabled, while the simulation runs at 30 ticks just like the original Xbox. 
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
+
 
 ## A copy of Halo: Combat Evolved is required
 
