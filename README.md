@@ -4,13 +4,24 @@
 
 The game runs natively on **Windows, Linux, Android** and in the **web browser** with nothing to install. A macOS port is in progress. Worth noting that it is not an emulator, **the game's own code is compiled for each platform** with a new layer in place of the Xbox's hardware. Runs on OpenGL (Android is on OpenGL ES and WebGL 2 in the browser). Sound, input, gamepads are all handled through SDL3. The game currently draws a frame every refresh of your display with Smooth Motion enabled, while the simulation runs at 30 ticks just like the original Xbox. 
 
+### OpenCE running on Windows (release build)
 [![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://youtu.be/KPQzqxQRCzM)
 
+### 4K Stencil Shadow Test In Halo CE (OpenCE)
 [![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
 
+### Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows
 [![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://youtu.be/FK5T_2NXjhI)
 
+### Halo 3 Cache Decomp
+[https://github.com/igiteam/halo3_cache_release_recomp](https://github.com/igiteam/halo3_cache_release_recomp)
 
+<a href="https://www.youtube.com/watch?v=FAMNq_gqCmI">
+    <img width="1920" height="1080" alt="2026.03.02 - 18.00.09.02" src="https://github.com/user-attachments/assets/8ef2ba53-4774-47c0-975d-34e3f43b1af5" />
+</a>
+
+<img width="1920" height="1080" alt="2026.03.03 - 08.58.35.00" src="https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635" />
+<img width="1920" height="1080" alt="2026.03.03 - ‏‎11.01.09.00" src="https://github.com/user-attachments/assets/7bf66958-8bdc-4a65-bab9-a7b652f742ce" />
 
 ## A copy of Halo: Combat Evolved is required
 
