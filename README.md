@@ -13,7 +13,7 @@
 
 
 ### OpenCE running on Windows (release build)
-[![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://youtu.be/KPQzqxQRCzM)
+[![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://ytembed.macosxjs.com/?S1BRenF4UVJDek0)
 
 ### 4K Stencil Shadow Test In Halo CE (OpenCE)
 [![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
