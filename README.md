@@ -3,7 +3,6 @@
 **OpenCE** (Open Community Edition) is an open source port of the Halo: Combat Evolved decompilation (Halo CE) based on an early Xbox development build (2342) and forked from
 [bnunu/halo-1](https://github.com/bnunu/halo-1). The project aims to enhance the existing game and adds many features, such as 128-player multiplayer, online campaign co-op, mod packs, field-of-view settings, a server browser, peer-to-peer hosting, automatic map downloads, voice chat, support for Custom Edition maps and much more! 
 
-## Github Codespace
 
 ## GitHub Treeview
 [https://treegit.macosxjs.com/?url=igiteam/halo-ce-123](https://treegit.macosxjs.com/?url=igiteam/halo-ce-123)
@@ -11,24 +10,23 @@
 ## GitHub Tree API (Direct JSON)
 [https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1)
 
-
 ### OpenCE running on Windows (release build)
 [![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://ytembed.macosxjs.com/?S1BRenF4UVJDek0)
 
 ### 4K Stencil Shadow Test In Halo CE (OpenCE)
-[![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
+[![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z3lILXlYZHJhXzA)
 
-[![halo-ce-editor](https://img.youtube.com/vi/4FaQIL-9gys/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLJYVRGd0JwzY)
+[![halo-ce-first-person-legs](https://img.youtube.com/vi/gkQXpLdpb6E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2tRWHBMZHBiNkU)
 
-[![halo-ce-first-person-legs](https://img.youtube.com/vi/gkQXpLdpb6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=gkQXpLdpb6E)
+[![halo-ce-editor](https://img.youtube.com/vi/4FaQIL-9gys/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLJYVRGd0JwzY)
 
 ### Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows
-[![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://youtu.be/FK5T_2NXjhI)
+[![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Rks1VF8yTlhqaEk)
 
 ### Halo 3 Cache Decomp
 [https://github.com/igiteam/halo3_cache_release_recomp](https://github.com/igiteam/halo3_cache_release_recomp)
 
-[![2026.03.02 - 18.00.09.02](https://github.com/user-attachments/assets/8ef2ba53-4774-47c0-975d-34e3f43b1af5)](https://www.youtube.com/watch?v=FAMNq_gqCmI)
+[![2026.03.02 - 18.00.09.02](https://github.com/user-attachments/assets/8ef2ba53-4774-47c0-975d-34e3f43b1af5)](https://ytembed.macosxjs.com/?RkFNTnFfZ3FDbUk)
 
 [![2026.03.03 - 08.58.35.00](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)
 
